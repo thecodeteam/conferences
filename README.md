@@ -1,4 +1,4 @@
-# Conferences
+# Conference Planning
 
 Welcome to the conferences repo for EMC {code}.  This is where we focus on conference planning.  Since we are committed to transparency and collaboration, all information relating to where, who, and what we are submitting for conferences is here!
 
